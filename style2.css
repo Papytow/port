@@ -1,3 +1,17 @@
+body{
+    background-color: black;
+}
+
+nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	background-color: rgb(15, 1, 1);
+	position: sticky;
+	top: 0;
+}
+
 section{
     margin: 0;
     padding: 0;
