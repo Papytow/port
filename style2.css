@@ -1,0 +1,21 @@
+section{
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  img{
+      text-align: center;
+      left: 10px;
+      margin: auto;
+      width: 44%;
+      height: 20%;
+  }
+  .container{
+      text-align: center;
+     margin: 100px 0 0 25%;
+     padding: 70px;
+     width: 44%;
+     border: 10px groove rgba(0, 0, 0, 0.575);
+     box-shadow: 5px 5px 8px rgba(0,0,0,0.424);
+  }
